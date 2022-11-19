@@ -1,0 +1,35 @@
+
+{
+  "name": "CV Luis David Gaviria Lopez",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "prop-types": "^15.5.10",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.8",
+    "nib": "^1.1.2",
+    "postcss-cli": "^10.0.0",
+    "react-scripts": "1.0.7",
+    "stylus": "^0.54.5",
+    "tailwindcss": "^3.1.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "stylus": "stylus -u nib -c -w -o public/css/style.css src/index.styl"
+  },
+  "main": "index.js",
+ 
+  "keywords": [
+    "cvjohn",
+    "react",
+    "jsx"
+  ]
+ 
+}
