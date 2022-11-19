@@ -13,7 +13,7 @@ class App extends Component {
       profession: 'Estudiante',
       bio: 'Estudiante de 9 semestre de ingenieria de sistemas UDEA ',
       address: 'La Ceja Antiquia',
-      email: 'lucholopez632@gmail.com'
+      email: 'lucholopez632@gmail.com',
       social: [
         {name: 'github', url: 'https://github.com/luisgavirialopez'},
         {name: 'linkedin', url: 'https://www.linkedin.com/in/luis-david-gaviria-l%C3%B3pez-860628218/'}
